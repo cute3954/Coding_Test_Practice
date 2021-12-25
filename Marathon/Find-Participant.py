@@ -18,8 +18,10 @@ def solution(participant, completion):
 
     return answer
 
+
 def main():
     print(solution(["mislav", "stanko", "mislav", "ana"], ["stanko", "ana", "mislav"]))
+
 
 if __name__ == '__main__':
     main()
